@@ -16,8 +16,6 @@ Useful as a proof of concept tool red teams can use to show impact, without actu
 # Run for a specific duration
 ./cryptobro -t 10    # Run for 10 minutes
 
-# Show help
-./cryptobro -h
 ```
 
 ## Building
